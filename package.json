@@ -10,7 +10,7 @@
     "build": "webpack ./bin/webpack.config.js --env.NODE_ENV=production"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "swiper": "^5.0.4",
     "vanilla-lazyload": "^12.0.2"
   },
